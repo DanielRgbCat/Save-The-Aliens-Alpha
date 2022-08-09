@@ -50,9 +50,9 @@ function preload() {
   //Plus
   plusImg = loadImage("assets/Others/plusPowerUp.png");
   //song
-  song1 = loadSound("/assets/songs/Clair_de_Lune.mp3");
-  song2 = loadSound("/assets/songs/Sonic_Blaster.mp3");
-  explosionSound = loadSound("/assets/songs/explosion.mp3");
+  song1 = loadSound("");
+  song2 = loadSound("");
+  explosionSound = loadSound("");
   //background
   BackgroundImg = loadImage("/assets/Others/space.png");
   gameOverImg = loadImage("/assets/Others/gameOver2.png");
